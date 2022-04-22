@@ -1,0 +1,10 @@
+.contenedor2 {
+    padding: 20px;
+    margin: 20px;
+    border-style: double;
+    border-color: coral;
+}
+
+input {
+    border-radius: 10px;
+}

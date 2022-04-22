@@ -1,0 +1,9 @@
+.contenedor {
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(172, 227, 34);
+    border-style: initial;
+    border-radius: 20px;
+    border-color: rgb(255, 80, 238);
+    border: 20px;
+}
